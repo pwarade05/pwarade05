@@ -1,6 +1,6 @@
 [![MasterHead](https://media.giphy.com/headers/salesforce/ZcLcnBDRoGYW.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I am Pranav Warade</h1>
-<h3 align="center">🧑🏻‍💻A passionate Salesforce Developer with a focus on customization, configuration, and organizational expertise within the Salesforce ecosystem.🧑🏻‍💼</h3> <p align="center"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="pwarade05" width="90" height="90" <align="center"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" alt="pwarade05" width="90" height="90" /></p>
+<h3 align="center">🧑🏻‍💻A passionate Salesforce Developer with a focus on customization, configuration, and organizational expertise within the Salesforce ecosystem. And more enthusiastic for the technology🧑🏻‍💼</h3> <p align="center"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Administrator.png" alt="pwarade05" width="90" height="90" <align="center"> <img src="https://developer.salesforce.com/resources2/certification-site/images/Certifications-logo/Associate.png" alt="pwarade05" width="90" height="90" /></p>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXRxM3N3NmFvM2FidDFpbTVjNDc2ZDB3bHhodGQzZ3RjdWM3d2t6diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif"/>
 
@@ -14,7 +14,7 @@
 
 - 😀 I love to exploring and learning new skills as well as implementing it
 
-- 💬 Ask me about **Salesforce CRM, LWC, Aura**
+- 💬 Ask me about **Salesforce CRM, LWC, Aura, Java**
 
 - 📫 How to reach me **waradepranav99@gmail.com**
 
